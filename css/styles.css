@@ -1,0 +1,55 @@
+.chicken{
+	background-color: 	lightyellow;
+}
+.beef{
+	background-color: 	lightcoral;
+}
+.sushi{
+	background-color: 	lightblue;
+}
+#brand-name{
+	font-size: 2em;
+	color: black;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+#collaps-navibar{
+	padding-right: 0;
+	padding-left: 0;
+	background-color: lightgrey;
+}
+#main-navbar{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.navibar{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.scroll{
+	height: 1000px;
+	background-color: lightgrey;
+}
+.backToTop{
+	text-align: right;
+	padding-bottom: 15px;
+}
+.backToTop a{
+	color: lightgrey;
+	text-decoration: none;
+}
+.backToTop a:hover{
+	color: grey;
+}
+
+h1{
+	font-size: 1.3em;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.container-body{
+	padding-top: 15px;
+	padding-bottom: 25px;
+
+}
